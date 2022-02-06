@@ -10,3 +10,11 @@ Kenterest is a full-stack social media photo sharing web application similar to 
 - [Live Preview](https://kenterest.netlify.app/)
 
 ![Kenterest Cover Sample](https://github.com/Ken-Yokohama/Kenterest/blob/master/cover.JPG)
+
+### Features:
+- Login and Account Creation
+- Masonry Layout for existing Photos/Pins
+- Search query and filtering
+- Horizontal Carousel Navigation for Hot Topics
+- Recommended Photos/Pins
+- Liked Photos/Pins
