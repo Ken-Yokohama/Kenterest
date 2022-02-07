@@ -18,3 +18,16 @@ Kenterest is a full-stack social media photo sharing web application similar to 
 - Horizontal Carousel Navigation for Hot Topics
 - Recommended Photos/Pins
 - Liked Photos/Pins
+
+### Technologies & Templates Used
+| Technologies | Usage                                      |
+| ----------------- | ------------------------------------------------ |
+| Google Authentication      | Login & Authentication      |
+| React Router Dom | Navigation & Routing |
+| React Masonry | CSS Masonry Layout        |
+| Tailwind CSS  | CSS Classes  |
+| React Slick | Horizontal Carousel Nav |
+| React Icons | Icons |
+| React Loader Spinner | Loader |
+| Sanity.io  | CMS|
+| UUID  | Unique Key Generation|
