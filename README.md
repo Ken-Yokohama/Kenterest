@@ -31,3 +31,10 @@ Kenterest is a full-stack social media photo sharing web application similar to 
 | React Loader Spinner | Loader |
 | Sanity.io  | CMS|
 | UUID  | Unique Key Generation|
+
+### How to run locally
+```
+git clone https://github.com/Ken-Yokohama/Kenterest.git
+cd kenterest
+npm start
+```
