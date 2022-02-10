@@ -35,6 +35,10 @@ Kenterest is a full-stack social media photo sharing web application similar to 
 ### How to run locally
 ```
 git clone https://github.com/Ken-Yokohama/Kenterest.git
+
+cd kenterest-backend
+sanity start
+
 cd kenterest
 npm start
 ```
