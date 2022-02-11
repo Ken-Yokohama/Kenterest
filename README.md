@@ -39,6 +39,6 @@ git clone https://github.com/Ken-Yokohama/Kenterest.git
 cd kenterest-backend
 sanity start
 
-cd kenterest
+cd kenterest-frontend
 npm start
 ```
