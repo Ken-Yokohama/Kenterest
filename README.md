@@ -42,3 +42,12 @@ sanity start
 cd kenterest-frontend
 npm start
 ```
+
+### File Structure
+Within the download you'll find the following directories and files:
+```
+psbsi/
+├── kenterest_backend/
+├── kenterest_frontend/
+└── sitemap.xml
+```
