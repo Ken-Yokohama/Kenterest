@@ -48,6 +48,17 @@ Within the download you'll find the following directories and files:
 ```
 psbsi/
 ├── kenterest_backend/
+|   ├── config/
+|   ├── dist/
+|   ├── plugins/
+|   ├── schemas/
+|   ├── static/
+|   ├── .npmignore
+|   ├── package.json
+|   ├── README.md
+|   ├── sanity.json
+|   ├── tsconfig.json
+|   └── yarn.lock
 ├── kenterest_frontend/
 └── sitemap.xml
 ```
