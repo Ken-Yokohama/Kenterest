@@ -49,6 +49,12 @@ Within the download you'll find the following directories and files:
 psbsi/
 ├── kenterest_backend/
 |   ├── config/
+|   |   ├── @sanity/
+|   |   |   ├── data-aspects.json
+|   |   |   ├── default-layout.json
+|   |   |   ├── default-login.json
+|   |   |   └── form-builder.json
+|   |   └── .checksums
 |   ├── dist/
 |   ├── plugins/
 |   ├── schemas/
