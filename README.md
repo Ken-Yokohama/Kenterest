@@ -66,7 +66,15 @@ psbsi/
 |   |   |   └── favicon.ico
 |   |   └── index.html
 |   ├── plugins/
+|   |   └── .gitkeep
 |   ├── schemas/
+|   |   ├── comment.js
+|   |   ├── pin.js
+|   |   ├── postedBy.js
+|   |   ├── save.js
+|   |   ├── schema.js
+|   |   ├── user.js
+|   |   └── .checksums
 |   ├── static/
 |   ├── .npmignore
 |   ├── package.json
