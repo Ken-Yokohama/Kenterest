@@ -56,6 +56,15 @@ psbsi/
 |   |   |   └── form-builder.json
 |   |   └── .checksums
 |   ├── dist/
+|   |   ├── static/
+|   |   |   ├── css/
+|   |   |   |   └── main.css
+|   |   |   ├── js/
+|   |   |   |   ├── app.bundle.js
+|   |   |   |   └── vendor.bundle.js
+|   |   |   ├── .gitkeep
+|   |   |   └── favicon.ico
+|   |   └── index.html
 |   ├── plugins/
 |   ├── schemas/
 |   ├── static/
