@@ -76,6 +76,8 @@ psbsi/
 |   |   ├── user.js
 |   |   └── .checksums
 |   ├── static/
+|   |   ├── .gitkeep
+|   |   └── favicon.ico
 |   ├── .npmignore
 |   ├── package.json
 |   ├── README.md
