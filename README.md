@@ -86,6 +86,14 @@ psbsi/
 |   └── yarn.lock
 ├── kenterest_frontend/
 |   ├── public/
+|   |   ├── _redirects
+|   |   ├── favicon.ico
+|   |   ├── favicon.png
+|   |   ├── index.html
+|   |   ├── logo192.png
+|   |   ├── logo512.png
+|   |   ├── manifest.json
+|   |   └── robots.txt
 |   ├── src/
 |   ├── .gitignore
 |   ├── README.md
