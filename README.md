@@ -96,6 +96,10 @@ psbsi/
 |   |   └── robots.txt
 |   ├── src/
 |   |   ├── assets/
+|   |   |   ├── favicon-transparent-white.png
+|   |   |   ├── favicon.png
+|   |   |   ├── logo.png
+|   |   |   └── logowhite.png
 |   |   ├── components/
 |   |   ├── container/
 |   |   ├── utils/
