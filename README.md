@@ -114,7 +114,11 @@ psbsi/
 |   |   |   ├── UserProfile.jsx
 |   |   |   └── index.js
 |   |   ├── container/
+|   |   |   ├── Home.jsx
+|   |   |   └── Pins.js
 |   |   ├── utils/
+|   |   |   ├── data.js
+|   |   |   └── fetchUser.js
 |   |   ├── App.js
 |   |   ├── client.js
 |   |   ├── index.css
