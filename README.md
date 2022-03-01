@@ -46,7 +46,7 @@ npm start
 ### File Structure
 Within the download you'll find the following directories and files:
 ```
-psbsi/
+kenterest/
 ├── kenterest_backend/
 |   ├── config/
 |   |   ├── @sanity/
@@ -130,5 +130,5 @@ psbsi/
 |   ├── package.json
 |   ├── postcss.config.js
 |   └── tailwind.config.js
-└── sitemap.xml
+└── README.md
 ```
