@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import './index.css'
+import './index.css';
 import { BrowserRouter as Router } from 'react-router-dom';
 
-
 ReactDOM.render(
-    <Router>
+    <Router basename="/Kenterest">
         <App />
-    </Router>, 
+    </Router>,
     document.getElementById('root')
 );
 
@@ -18,15 +17,15 @@ ReactDOM.render(
 // ReactDOM.render(
 //     <Router>
 //         <App />
-//     </Router>, 
+//     </Router>,
 //     document.getElementById('root')
 // );
-// 
+//
 // **Place this inside App .js
-// 
+//
 // import {Routes, Route, useNavigate} from 'react-router-dom';
 // **Note: Switch was Renamed Routes in latest Update
-// 
+//
 // function App(){
 //     return (
 //         <Routes>
@@ -36,11 +35,8 @@ ReactDOM.render(
 //         </Routes>
 //     )
 // }
-// 
+//
 // export default App;
-
-
-
 
 //OLD Boilerplate
 
