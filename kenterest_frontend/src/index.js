@@ -37,28 +37,3 @@ ReactDOM.render(
 // }
 //
 // export default App;
-
-//OLD Boilerplate
-
-// import { Route, BrowserRouter as Router, Switch, Link } from 'react-router-dom';
-// import About from './Pages/About';
-// import Home from './Pages/Home';
-
-// <Router>
-//     <nav>
-//         <ul>
-//             <li>
-//                 <Link to='/'>Home</Link>
-//             </li>
-//             <li>
-//                 <Link to='/About'>About</Link>
-//             </li>
-//         </ul>
-//     </nav>
-
-//     <Switch>
-//         <Route path='/' exact component={Home} />
-//         <Route path='/About' component={About} />
-//     </Switch>
-
-// </Router>
