@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kenterest/static/css/main.fe943477.css",
+    "main.js": "/Kenterest/static/js/main.a7b4d82d.js",
+    "static/media/favicon-transparent-white.png": "/Kenterest/static/media/favicon-transparent-white.be5c6beb6cc6034921ee.png",
+    "static/media/logo.png": "/Kenterest/static/media/logo.d8ea7f264ce8ed385313.png",
+    "index.html": "/Kenterest/index.html",
+    "main.fe943477.css.map": "/Kenterest/static/css/main.fe943477.css.map",
+    "main.a7b4d82d.js.map": "/Kenterest/static/js/main.a7b4d82d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe943477.css",
+    "static/js/main.a7b4d82d.js"
+  ]
+}
